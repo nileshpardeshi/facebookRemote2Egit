@@ -6,12 +6,11 @@ public class login {
 		// TODO Auto-generated method stub
 		System.out.println("Hello by dev1");
 		System.out.println("changes for UPI");
-		System.out.println("change1");
-		System.out.println("change1");
 		System.out.println("git session");
 		System.out.println("Try2");
 		System.out.println("conflict");
 		System.out.println("Bye");
+		System.out.println("See you soon");
 
 	}
 
